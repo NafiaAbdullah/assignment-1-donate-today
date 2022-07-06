@@ -25,9 +25,9 @@ h1 {
 
 button {
     text-decoration: none;
-    color: aliceblue;
+    color: whitesmoke;
     background-image: linear-gradient(orange, red);
-    padding: 10px 20px;
+    padding: 20px 20px;
     border: 5px;
     font-weight: 900;
 }
@@ -121,25 +121,33 @@ h4 {
 .section-4 {
     display: flex;
     padding-left: 100px;
-    padding-right: 100px;
+    padding-right: 200px;
     padding-bottom: 100px;
 }
 
 .section-4 img {
     width: 70%;
+    padding-left: 100px;
 }
 
 .section-5 img {
-    width: 70%;
+    width: 80%;
+    padding-top: 50px;
 }
 
 .section-5 {
     display: flex;
     padding-left: 100px;
-    padding-right: 100px;
+    padding-right: 300px;
     padding-bottom: 100px;
 }
 
 .half-width {
     width: 50%;
+    text-align: left;
+}
+
+#flexible-content {
+    padding-left: 100px;
+    padding-right: 100px;
 }
