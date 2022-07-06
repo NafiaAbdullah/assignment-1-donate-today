@@ -117,3 +117,29 @@ hr {
 h4 {
     font-size: 25px;
 }
+
+.section-4 {
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+}
+
+.section-4 img {
+    width: 70%;
+}
+
+.section-5 img {
+    width: 70%;
+}
+
+.section-5 {
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+}
+
+.half-width {
+    width: 50%;
+}
