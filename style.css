@@ -23,7 +23,7 @@ h1 {
     height: 500px;
 }
 
-button {
+.b-flex {
     text-decoration: none;
     color: whitesmoke;
     background-image: linear-gradient(orange, red);
@@ -139,7 +139,7 @@ h4 {
     display: flex;
     padding-left: 100px;
     padding-right: 300px;
-    padding-bottom: 100px;
+    padding-bottom: 50px;
 }
 
 .half-width {
@@ -150,4 +150,39 @@ h4 {
 #flexible-content {
     padding-left: 100px;
     padding-right: 100px;
+}
+
+.section-6 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.contact-update {
+    display: flex;
+    Padding-left: 200px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: bisque;
+    margin-left: 400px;
+    margin-right: 400px;
+
+}
+
+footer {
+    background-color: black;
+    margin-top: 100px;
+}
+
+#f-1 {
+    text-decoration: none;
+    color: orangered;
+    font-size: 2em;
+    font-family: cursive;
+    font-weight: 900;
+}
+
+#f-2 {
+    text-decoration: none;
+    color: white;
+    padding-bottom: 50px;
 }
